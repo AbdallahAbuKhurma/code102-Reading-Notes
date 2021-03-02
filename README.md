@@ -4,5 +4,5 @@
 | content      | Description      |
 | -----------  | -----------      |
 | readme.md    | table of content |
-| read03.md    | mindset          |
+| read03.md    | [https://github.com/AbdallahAbuKhurma/Reading-Notes/blob/main/read03.md]       |
 | summary.md   | Git intro        |
