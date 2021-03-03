@@ -4,7 +4,7 @@
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points.
 * The differences between a fixed and a growth mindset:
 
-![](image.png) 
+![](snip3.png) 
 ### Perseverance, gumption traps, and maintaining a growth mindset:
 * Challenges
 * Obstacles
