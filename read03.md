@@ -24,7 +24,7 @@ The meta tag allows you to supply all kinds of information about your web page.
 ## Escape Characters
 
 
-![img](snip1.png) 
+![](snip1.PNG) 
 
 
 # HTML5 Layout
@@ -47,6 +47,6 @@ Every website should be designed for the target audience—not just for yourself
 * You can use grouping and similarity to help simplify the information you present.
 
 ## Here is an example of site maps:
-![img](snip2.png) 
+![](snip2.PNG) 
 
 
