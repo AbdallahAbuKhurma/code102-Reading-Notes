@@ -7,3 +7,4 @@
 | read02a.md    | [mindset](https://abdallahabukhurma.github.io/Reading-Notes/read02a)          |
 | read02b.md   | [Git intro](https://abdallahabukhurma.github.io/Reading-Notes/read02b)       |
 |read03.md|[HTML summary](https://abdallahabukhurma.github.io/Reading-Notes/read03)|
+| read04.md    | [JAVASCRIPT](https://abdallahabukhurma.github.io/Reading-Notes/read04) |
