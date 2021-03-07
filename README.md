@@ -10,4 +10,4 @@
 | read04.md    | [JAVASCRIPT](https://abdallahabukhurma.github.io/Reading-Notes/read04) |
 | read04b.md    | [Computers](https://abdallahabukhurma.github.io/Reading-Notes/read04b) |
 | read04c.md    | [How to write a script for a web page](https://abdallahabukhurma.github.io/Reading-Notes/read04c) |
-
+| read05.md    | [Operators and Loops](https://abdallahabukhurma.github.io/Reading-Notes/read05) |
