@@ -30,11 +30,11 @@ Loops check a condition if it returns true, a code block will run. Then the cond
 
 ### Common types of loops:
 
-1.	For: if you need to run a code for a specific number of times then use for loop.
+1.	**For**: if you need to run a code for a specific number of times then use **for loop**.
 
-2.	While: if you don’t know how many times the code should run, you can use a while loop.
+2.	**While**: if you don’t know how many times the code should run, you can use a **while loop**.
 
-3.	Do while: it’s similar to the while loop, but it has one difference it will always run the statement inside the curly braces.
+3.	**Do while**: it’s similar to the **while loop**, but it has one difference it will always run the statement inside the curly braces.
 
 ### Loop counters: 
 ![loop counters](snip6.PNG)
