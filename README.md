@@ -11,3 +11,4 @@
 | read04b.md    | [Computers](https://abdallahabukhurma.github.io/Reading-Notes/read04b) |
 | read04c.md    | [How to write a script for a web page](https://abdallahabukhurma.github.io/Reading-Notes/read04c) |
 | read05.md    | [Operators and Loops](https://abdallahabukhurma.github.io/Reading-Notes/read05) |
+| read06b.md    | [Design web pages with CSS](https://abdallahabukhurma.github.io/Reading-Notes/read06b) |
